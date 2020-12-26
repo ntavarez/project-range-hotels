@@ -255,8 +255,8 @@ h1, h2, h3, h4, h5, h6{
 @media screen and (min-width: 74em){ 
     .top-content{
         background-image: radial-gradient(closest-side at 50% 10%, black, transparent), url(../images/bg_topo_1600x1374.jpg);
-        padding: 25em 15em 8em;
-        background-position: center top -145px, center top;
+        padding: 20em 15em 8em;
+        background-position: center top -133px, center top;
         background-repeat: no-repeat;
     }
 
